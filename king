@@ -9,7 +9,7 @@ int main() {
   cout << "Enter operator: +, -, *, /: ";
   cin >> op;
 
-  cout << "Enter two operands: ";
+  cout << "Enter two big operands: ";
   cin >> num1 >> num2;
 
   switch(op) {
